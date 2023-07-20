@@ -71,21 +71,11 @@ We welcome contributions to improve and enhance the Go Algo in AI Odyssey game a
 We appreciate your valuable contributions!
 
 ---
-<div style="display: flex; justify-content: space-between;">
-<div style="flex: 1;">
-    <img src="readme-asset/1.jpg" alt="Image 1" width="200" height="400">
-</div>
-<div style="flex: 1;">
-    <img src="readme-asset/2.jpg" alt="Image 2" width="200" height="400">
-</div>
-<div style="flex: 1;">
-    <img src="readme-asset/3.jpg" alt="Image 2" width="200" height="400">
-</div>
-<div style="flex: 1;">
-    <img src="readme-asset/7.jpg" alt="Image 2" width="200" height="400">
-</div>
+## Glimp's of UI
 
-</div>
+| Screen 1                    | Screen 2                    | Screen 3                    | Screen 4                    |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| ![Image 1](readme-asset/1.jpg) | ![Image 2](readme-asset/2.jpg) | ![Image 3](readme-asset/3.jpg) | ![Image 4](readme-asset/7.jpg) |
 
 ---
 Thank you for your interest in Go Algo in AI Odyssey! We hope you enjoy playing the game and learning more about AI algorithms through this interactive experience. We have made the game as open-source so any body can make the changes in UI and backend and use it. 🚀
